@@ -5,6 +5,16 @@ Calculadora interativa em Python com operações básicas de matemática.
 Uma calculadora simples e interativa desenvolvida em **Python**, que realiza operações matemáticas básicas (soma, subtração, multiplicação e divisão).  
 
 ---
+🔹 Arquivo .sh para rodar (run_calculadora.sh)
+#!/bin/bash
+# Script para executar a Calculadora Inteligente
+# Autor: Jailson
+
+echo "Iniciando a Calculadora Inteligente..."
+python3 calculadora.py
+
+
+
 
 ## 🚀 Como executar
 
