@@ -10,7 +10,7 @@ Uma calculadora simples e interativa desenvolvida em **Python**, que realiza ope
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/calculadora-inteligente.git
+git clone https://github.com/JailsonsouzaStarCityCorp/calculadora-inteligente.git
 cd calculadora-inteligente
 
 Executar via script .sh
